@@ -109,7 +109,7 @@ Abhigyaan is an Android application built to manage the activities of the Abhigy
  ANUBHAV CHOURASIA
  9798810492
  f20230939@goa.bits-pilani.ac.in
- ![Abhigyaan App](https://github.com/devvcraze/Abhigyaan-education-for-everyone/blob/main/WhatsApp%20Image%202024-08-13%20at%2010.01.53.jpeg)
+ ![Abhigyaan App](https://github.com/devvcraze/abhigyaanreadme/blob/main/WhatsApp%20Image%202024-08-13%20at%2010.01.53.jpeg)
  
 
 
