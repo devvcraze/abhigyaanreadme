@@ -45,8 +45,8 @@ Abhigyaan is an Android application built to manage the activities of the Abhigy
 
 - **Model and Adapter Naming:**
   - Uses distinct names for the model class and adapter in the `galleryActivity` to ensure clarity and maintainability.
-    - Model class: <span style="color:blue;">`PhotoItem`</span>
-    - Adapter class: <span style="color:blue;">`PhotoAdapter`</span>
+    - Model class: `PhotoItem`
+    - Adapter class: `PhotoAdapter`
 
 ### Birthday Wishes
 - **Birthday Feature:**
@@ -66,6 +66,11 @@ Abhigyaan is an Android application built to manage the activities of the Abhigy
 - **Access Control:**
   - Restricts access to certain activities based on the authenticated Google account.
   - Only approved accounts can access sensitive sections like substitution requests and volunteer management.
+
+### WhatsApp Messaging
+- **Send WhatsApp Messages:**
+  - Allows authorized users to send WhatsApp messages directly from the app.
+  - Features integration with the WhatsApp application for sending messages related to volunteer schedules.
 
 ### Content Management
 - **Firebase Integration:**
@@ -103,17 +108,8 @@ Abhigyaan is an Android application built to manage the activities of the Abhigy
 
 ## Contact
 
-
-
- **Email and Contact Info:** 
- ANUBHAV CHOURASIA
- 9798810492
- f20230939@goa.bits-pilani.ac.in
- ![Abhigyaan App](https://github.com/devvcraze/abhigyaanreadme/blob/main/WhatsApp%20Image%202024-08-13%20at%2010.01.53.jpeg)
- 
-
-
-
-
-
-
+**Email and Contact Info:**  
+ANUBHAV CHOURASIA  
+9798810492  
+f20230939@goa.bits-pilani.ac.in  
+![Abhigyaan App](https://github.com/devvcraze/abhigyaanreadme/blob/main/WhatsApp%20Image%202024-08-13%20at%2010.01.53.jpeg)
